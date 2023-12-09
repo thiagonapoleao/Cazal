@@ -1,7 +1,7 @@
 <?php
 
 // constantes com as credenciais de acesso ao banco MySQL
-define('DB_HOST', '10.16.0.79');
+define('DB_HOST', '127.0.0.1');
 define('DB_USER', 'default');
 define('DB_PASS', '123456');
 define('DB_Cazal', 'cazal');
